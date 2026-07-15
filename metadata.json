@@ -1,0 +1,6 @@
+{
+  "name": "Next Year Countdown",
+  "description": "An interactive Material 3 countdown video builder that automatically generates beautiful 15-second vertical countdown videos for the upcoming New Year with motivational quotes, customizable animations, synthesized background music, and video export capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
